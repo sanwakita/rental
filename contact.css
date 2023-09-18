@@ -1,0 +1,47 @@
+.header{
+    background-color: tomato
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+.form-kontak{
+    padding: 20px;
+    text-align: center;
+}
+
+.form-kontak h1{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.kentir form{
+    margin-left: 47px;
+}
+
+.kentir input{
+    margin-left: 10px;
+}
+
+.kentir textarea{
+    margin-left: 10px;
+    margin-bottom: auto;
+}
+
+.jajal input{
+    background-color: skyblue;
+    margin-left: 590px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
